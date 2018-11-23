@@ -1,4 +1,4 @@
-# crystalclearpools
+# vue-comics
 
 > A Vue.js project
 
